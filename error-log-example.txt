@@ -1,0 +1,21 @@
+Errors Found while parsing billing report  Currently where no account number exists or Account Number = Account Number,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Page -1 of 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+Errors while generating output report
+Last Name mismatch:
+AK16614,2012/12/26,463867125,2028/12/29,71721,RT,$521.00,M25.569,60315,1,11,JAMSE BOYLE,,09/32/1928,10/25/2011,,,,,,,,,,,,,,,,,,,,,,
+
+Missing claimNumber from roster:
+INS CLAIM NUMBER,DATE BILL PAID BY CLIENT,ACCOUNT NUMBER,DATE OF SERVICE,CPT CODE(S),MOD,BILLED CHARGES,RO,PROVIDER ZIP,UNIT,PLACE OF SERVICE,PATIENT NAME,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Missing claimNumber from roster:
+1       2          3         4        5          6
+                    # OF ACCOUNTS                                # OF CPT CODES,44,44,12,4,3,1,1,GRAND TOTAL CPTS:,65,,,,,,,,,,,,,,,,,,,,,,,,,,,
